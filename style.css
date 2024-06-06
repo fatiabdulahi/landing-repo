@@ -62,7 +62,7 @@ nav {
   display: inline;
   font-size: 26px;
   padding: 10px;
-  text-align: center;  
+  text-align: center;
 }
 
 #section1 {
@@ -108,7 +108,7 @@ form {
   margin-left: 80px;
 }
 
-@media screen and (max-width: 590px){
+@media screen and (max-width: 590px) {
   .mall {
     height: 100px;
     width: 100px;
