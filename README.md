@@ -6,6 +6,10 @@
 
 
 ## Demo 📸
+![Alt text](nafas_mall.png)
+![Alt text](nafas_mall2.png)
+![Alt text](nafas_mall3.png)
+![Alt text](nafas_mall4.png)
 
 
 ## Technologies Used 🛠️
